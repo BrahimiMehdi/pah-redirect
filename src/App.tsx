@@ -14,6 +14,7 @@ function App() {
   return (
     <div className="app">
       <div className="container">
+        <img src="/logoBlue.png" className='image' alt="" />
         <h1 className="title">Pharma at Hand</h1>
         <p className="description">
           We moved domains to <strong>pharma-at-hand.app</strong>

@@ -6,7 +6,12 @@
   background: linear-gradient(135deg, #1976d2 0%, #42a5f5 100%);
   padding: 20px;
 }
-
+.image{
+  width: 120px;
+  margin-bottom: 2rem;
+  object-fit: cover;
+  border-radius: 8px;
+}
 .container {
   text-align: center;
   background: rgba(255, 255, 255, 0.95);
